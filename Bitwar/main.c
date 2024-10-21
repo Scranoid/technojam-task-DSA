@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+Here I have create two functions one being bitwisecall which is doing the main calculation for the Bitwise Operator and the other one being the main which takes the 
+input from the user and calls the bitwisecall function which in turn returns the value to display on the screen.
+*/
 int bitwisecall( int p, int q ) {
     while (q > p) {
         q = p & (q - 1);
