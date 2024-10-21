@@ -7,7 +7,7 @@ the count integer variable I assigned for taking the total number of times the L
 the ELSE one I printed the number of times the variable was repeated .
 
 
-#Difficulties I specefically Faced:
+#Difficulties I Specifically Faced:
 I you see the program carefully I specefically placed a printf statement in the FOR loop's end because 
 if I removed it the last repeating letter's number would'nt show and it's reason I'll explain at the auditions.
 :)
