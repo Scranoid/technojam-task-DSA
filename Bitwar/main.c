@@ -1,21 +1,20 @@
 #include <stdio.h>
 
-int rangeBitwiseAnd( int Left, int Right ) {
-    while (Right > Left) {
-        Right = Right & (Right - 1);
+int bitwisecall( int p, int q ) {
+    while (q > p) {
+        q = p & (q - 1);
     }
-    return Right;
+    return q;
 }
 
 int main() {
-    int Left, Right;
+    int Leftval, Rightval;
     printf("Enter the value of Left:\n");
-    scanf("%d", &Left);
+    scanf("%d", &Leftval);
     printf("Enter the value of Right:\n");
-    scanf("%d", &Right);
-
-    int result = rangeBitwiseAnd(Left , Right);
-    printf("Bitwise AND of all integers between %d and %d is: %d\n", Left, Right, result);
+    scanf("%d", &Rightval);
+    int result = bitwisecall(Leftval , Rightval);
+    printf("Bitwise AND of all integers between %d and %d is: %d\n", Leftval, Rightval, result);
 
     return 0;
 }
