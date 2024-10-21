@@ -6,6 +6,6 @@ And ofcourse I used four different variables and each of their purpose and uses 
 
 
 
-#Difficulties While Writing the program:
+#Difficulties While Writing The Program:
 Executing the Main function in this program specefically wasn't that hard .
 The main problem I faced was to write and design the logic and working of the climbStairs function and how it was going to calculate and return the value for printing the distintive ways of the climbed steps.
