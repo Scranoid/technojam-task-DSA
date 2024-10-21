@@ -13,5 +13,5 @@ Although I've done a decent amount of work previously but I was still not able t
 I could've copied the code from an LLM or StackOverFlow'ed it but I am very true to whatever I do and that was the reason I sumbitted the only work which I did on my past knowledge and experience , but still I'm very happy  for the fact that there is a lot more room to grow and TechnoJam will enable me with the appropriate toolset and the best mindset I can have to achieve whatever I've planned for the upcoming times....
 
 
-#Projects
+# Projects
 All of the README of diffenent programming questions along with their code files are present on their named folders respectively with each code file containing its separate documentation explaing the working of the program along with the variables listed....
