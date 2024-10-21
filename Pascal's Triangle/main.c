@@ -1,5 +1,7 @@
 #include<stdio.h>
 /*
+I'm Abhinav Jha and all of this documentation is done by me to make my program Readable and more understable for the fellow programmer , Along with this I Follow 
+good programming practices which incorporate proper WHITESPACING and INDENTAION. So , Don't even consider this as an AI generated SLOP. :)
 First of all we are initializing five variables here and each of their uses have been mentioned there as well:
 1. variable n , Which is going to be used for taking the input from the user for number of rows and storing in that variable.
 2. variable x , Which is going to be used for calculating the spacing of each number going to be oriented from the right side of the screen.
