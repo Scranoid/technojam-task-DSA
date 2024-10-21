@@ -7,5 +7,5 @@ The next thing I did was to create the main logic and loops for the program to f
 
 #Challenges I faced:
 This program didn't gave me the trouble on the calculation part.
-But it was quite challeging for me to create the appropriate spacing and incorporating the for loops at first but I eventually figured it out using mt tried and tested
+But it was quite challenging for me to create the appropriate spacing and incorporating the for loops at first but I eventually figured it out using mt tried and tested
 method which is trial and error :) .
