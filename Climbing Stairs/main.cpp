@@ -1,6 +1,6 @@
 #include<stdio.h>
 /*
-As said earlier in Pascal's Triangle;
+As said earlier in Pascal's Triangle Comments;
 I'm Abhinav Jha and all of this documentation is done by me to make my program Readable and more understable for the fellow programmer , Along with this I Follow 
 good programming practices which incorporate proper WHITESPACING and INDENTAION. So , Don't even consider this as an AI generated SLOP. :)
 This program takes the input from the user of the number of stairs he or she might want to climb and then calculates the number of distinct ways the person can climb
