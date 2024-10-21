@@ -1,7 +1,7 @@
 #Approaching My Task :
 So how do I put it , Initially I thought that this was going to be easy but as I approached and 
 looked on to the task at hand , I found it rather interesting to go and look onto the problem.
-At first I defined a value  MAXINP as 100 and took the value as the character array size , then i created
+At first I defined a value  MAXINP as 100 and took the value as the character array size , then I created
 a FOR loop in which I gave a pair of IF and ELSE statements. Alongside in the IF conditional I appended
 the count integer variable I assigned for taking the total number of times the Letter had been repeated and in 
 the ELSE one I printed the number of times the variable was repeated .
