@@ -1,5 +1,8 @@
 #include <stdio.h>
 /*
+As said earlier in Climbing Stairs;
+I'm Abhinav Jha and all of this documentation is done by me to make my program Readable and more understable for the fellow programmer , Along with this I Follow 
+good programming practices which incorporate proper WHITESPACING and INDENTAION. So , Don't even consider this as an AI generated SLOP. :)
 Here I have create two functions one being bitwisecall which is doing the main calculation for the Bitwise Operator and the other one being the main which takes the 
 input from the user and calls the bitwisecall function which in turn returns the value to display on the screen.
 */
