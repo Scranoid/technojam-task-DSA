@@ -1,7 +1,7 @@
 # technojam-task-DSA 
  
 Respected Sir/Ma'am and whosoever is reading this , 
-I am Abhinav Jha a student of Computer Science studying in your university and have been studying and loving computers for his entire life since I gained abitlity  to study and be concious. I am a very big CUDA and CPU architectural design fan as well so I have learnt many other things previously which have helped me in going to that path as well.
+I am Abhinav Jha a student of Computer Science studying in your university and have been studying and loving computers for my entire life since I gained abitlity  to study and be concious. I am a very big CUDA and CPU architectural design fan as well so I have learnt many other things previously which have helped me in going to that path as well.
 
 I've been following good programming practices since I was a little kid , but the main reason being when I started my journey with the book on C from Greg Perry and Dean Miller(fabulous book you all should read it). Therefore don't confuse my written codes with some LLM generated slop because I use proper whitespaces and indentation in my code as I have collaborated with many other people on github and gitlab as well previously.
 
